@@ -1,0 +1,15 @@
+{
+  "name": "example-md-slide",
+  "version": "0.1.0",
+  "description": "example-md-slide",
+  "dependencies": {
+    "express": "~2.5.9"
+  },
+  "devDependencies": {
+    "markup": "*"
+  },
+
+  "scripts": {
+    "start":   "node index.js"
+  }
+}
